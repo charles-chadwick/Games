@@ -1,0 +1,9 @@
+<SpaceGame>
+    <Player id="player_blue">
+        <Sprites>
+            <Sprite src="res/player/playerShip1_blug.png" />
+            <Sprite src="res/player/playerShip2_blug.png" />
+            <Sprite src="res/player/playerShip2_blug.png" />
+        </Sprites>
+    </Player>
+</SpaceGame>
